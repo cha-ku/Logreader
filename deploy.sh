@@ -1,5 +1,7 @@
 #!/bin/bash
 
+## Author - Chaitanya Kukde
+
 # fanout.sh scp's the files
 ./fanout.sh
 
